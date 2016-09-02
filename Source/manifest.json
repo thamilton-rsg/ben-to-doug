@@ -1,8 +1,8 @@
 {
 	"manifest_version": 2,
-	"name": "OAuth to Oprah",
+	"name": "Ben To Doug",
 	"version": "1.0",
-	"description": "Replaces the text 'OAuth' with 'Oprah'.",
+	"description": "Replaces the text 'Ben' with 'Doug'.",
 	"content_scripts": 
 	[
 		{
